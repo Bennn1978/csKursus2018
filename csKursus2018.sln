@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testConsoleApp", "testConso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler", "Variabler\Variabler.csproj", "{EA925C97-9BD8-401B-85AE-8673D6FA04CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatoOgTid", "DatoOgTid\DatoOgTid.csproj", "{3B512B0B-3E6C-4FA6-9BB9-18789485D955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EA925C97-9BD8-401B-85AE-8673D6FA04CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA925C97-9BD8-401B-85AE-8673D6FA04CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA925C97-9BD8-401B-85AE-8673D6FA04CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B512B0B-3E6C-4FA6-9BB9-18789485D955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B512B0B-3E6C-4FA6-9BB9-18789485D955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B512B0B-3E6C-4FA6-9BB9-18789485D955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B512B0B-3E6C-4FA6-9BB9-18789485D955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
